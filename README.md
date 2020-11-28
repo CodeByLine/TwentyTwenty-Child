@@ -1,2 +1,2 @@
 # TwentyTwenty-Child
-A working child theme of WordPress Twenty Twenty
+An imperfect, but working, child theme of WordPress Twenty Twenty.
